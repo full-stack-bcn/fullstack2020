@@ -1,13 +1,13 @@
-Marta A. no
-Àngel A. no
-Alex C. Si // Username: raiben23
+Marta A.       no
+Àngel A.       no
+Alex C.        yes // Username: raiben23
 Jose Miguel C. no
-Víctor G. no
-Laura G. no
-Francisco M. no
-Santi M. no
-Laura M. yes
-Germán P. sí
-Gus P. no
-Niels S. no
-Diana Y. no
+Víctor G.      no
+Laura G.       no
+Francisco M.   no
+Santi M.       no
+Laura M.       yes
+Germán P.      yes
+Gus P.         no
+Niels S.       no
+Diana Y.       no
