@@ -1,4 +1,4 @@
-Marta A.       no
+Marta A.       yes
 Àngel A.       no
 Alex C.        yes // Username: raiben23
 Jose Miguel C. no
