@@ -2,7 +2,7 @@ Marta A.       no
 Àngel A.       no
 Alex C.        yes // Username: raiben23
 Jose Miguel C. no
-Víctor G.      no
+Víctor G.      yes // Username: victorgg1993
 Laura G.       no
 Francisco M.   no
 Santi M.       no
