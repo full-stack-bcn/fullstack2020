@@ -10,4 +10,4 @@ Laura M.       yes
 Germán P.      yes
 Gus P.         no
 Niels S.       no
-Diana Y.       no
+Diana Y.       yes
