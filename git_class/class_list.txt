@@ -3,7 +3,7 @@ Marta A.       yes
 Alex C.        yes // Username: raiben23
 Jose Miguel C. no
 Víctor G.      yes // Username: victorgg1993
-Laura G.       no
+Laura G.       yes // Username: lgotarra
 Francisco M.   yes
 Santi M.       no
 Laura M.       yes
